@@ -8,3 +8,4 @@ sebuah aplikasi yang di rancang untuk hybrid offline dan online guna manajemen r
 - Irsad Najib Eka Putra (23/518119/TK/57005) >> Back End [KETUA] 
 - Anggita Salsabilla (23/516001/TK/56775) >> UI and UX Design 
 - Melvino Rizky Putra Wahyudi (23/515981/TK/56770) >> Front End 
+- Halim
