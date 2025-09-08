@@ -10,3 +10,5 @@ sebuah aplikasi yang di rancang untuk hybrid offline dan online guna manajemen r
 - Anggita Salsabilla (23/516001/TK/56775) >> UI/UX Design
 - Melvino Rizky Putra Wahyudi (23/515981/TK/56770) >> Front End
 - Abdul Halim Edi Rahmansyah (23/516603/TK/56796) >> Data dan AI analyst
+
+![Description](Assests/90621a57-7518-4808-bc24-6db100602557.jpg)
